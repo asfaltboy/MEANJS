@@ -1,5 +1,5 @@
 # MEANJS
-======
+
 This dockerfile can be used to build the latest nodejs and npm with the latest npm packages, along with the most current version of mongo and various other tools already in the main repo.
 
 ## Note the _JS_ here in MEANJS. This is the project at http://meanjs.org/ so if you are looking for the MEAN _IO_ template you have come to the wrong place.
